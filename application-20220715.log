@@ -1,0 +1,5 @@
+{timestamp: 2022-07-15 22:30:54.058, level: main INFO , org.example.App - info message inserted to logger
+},{timestamp: 2022-07-15 22:30:54.060, level: main WARN , org.example.App - warning message only
+},{timestamp: 2022-07-15 22:30:54.060, level: main ERROR, org.example.App - error occured, please try again
+},{timestamp: 2022-07-15 22:30:54.060, level: main FATAL, org.example.App - fatal error!
+},
